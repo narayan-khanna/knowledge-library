@@ -31,7 +31,7 @@ p = Person("Narayan")  # __init__ is called here
 ###  2. __str__
 Defines how the object is represented as a string.
 
-```
+```python
 class Person:
     def __init__(self, name):
         self.name = name
