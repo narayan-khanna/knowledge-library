@@ -1,4 +1,4 @@
-# Dunder Methods in Python
+# Python Fundamentals
 
 **Dunder methods** (short for *double underscore methods*) are **special methods** in Python.  
 They always **begin and end** with double underscores, such as:
