@@ -8,6 +8,7 @@ nav:
       - Transformers: ai/transformers.md
       - LangChain Tricks: ai/langchain-tricks.md
   - Fullstack:
+      - Python: python/python.md
       - FastAPI Logging: fullstack/fastapi-logging.md
       - React Performance: fullstack/react-performance.md
   - System Design:
