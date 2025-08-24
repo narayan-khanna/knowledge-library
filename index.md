@@ -13,4 +13,6 @@ Browse through AI, Fullstack, System Design, and Timeline notes below.
   - [LangGraph](agentic/langgraph.md)
   - [CrewAI](agentic/crewai.md)
 - [Timeline](timeline/2025-08-week3.md)
+- LLM
+  - [Fine Tuning](llm/fine-tuning-methods.md) 
 
