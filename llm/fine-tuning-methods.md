@@ -13,6 +13,9 @@
 
 ### Types of fine Tuning
 
+### Non-parametric fine-tuning
+It is the type that works by passing the task-specific data as a context without training any parameters of the model
+
 - **In-context fine-tuning**
   - Partial fine-tuning
     - BitFit
@@ -21,6 +24,8 @@
 - **Retrieval-augmented generation (RAG)**
 
 ## Parametric fine-tuning
+It is the type that works by fine-tuning the model’s parameters on task-specific datasets. It can be the training of all the parameters of the model or training only a few parameters by freezing the rest of the parameters of the model.
+
 - **Parametric efficient fine-tuning (PEFT)**
   - Additive fine-tuning
     - Prompt tuning
@@ -32,3 +37,4 @@
   - QLoRA
   - KronA
 
+* **`Freezing`** refers to keeping certain parameters of the model unchanged during fine-tuning, allowing them to retain their pre-trained knowledge without being updated or modified.
