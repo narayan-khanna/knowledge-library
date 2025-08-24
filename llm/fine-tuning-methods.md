@@ -2,7 +2,7 @@
 
 * Process of adapting a pretrained language model to perform specific tasks
 * It involves training the parameters of a pre-existing LLM on domain-specific data
-* `**Catastrophic forgetting**` - LLM forgets the previous knowledge while learning from new dataset, this usually happens during fine-tuning of all or some parameters of the LLM.
+* **`Catastrophic forgetting`** - LLM forgets the previous knowledge while learning from new dataset, this usually happens during fine-tuning of all or some parameters of the LLM.
 
 ### Important tuning parameters to consider
 
