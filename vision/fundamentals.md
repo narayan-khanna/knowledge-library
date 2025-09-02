@@ -4,4 +4,5 @@
 - In 3D images - F(X,Y,Z) - tripletxi,yi,zi is called a voxel (volume element)
 - Image channels are simply the different color components that make an image.
 - images represented commonly by matrices
+- An image is a static representation at a single point in time, while a video is a sequence of images played at a rate that creates an illusion of motion. This rate is what we can call frames per second.
 - 
