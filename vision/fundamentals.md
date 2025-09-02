@@ -1,1 +1,7 @@
-
+- An image is an n-dimensional function
+- F(X,Y), where X and Y are spatial coordinates (system that describe the positions of objects in a physical space)
+- Function F(X,Y) is characterized by two components: the amount of illumination from the source and the amount of illumination reflected by the object in the scene
+- In 3D images - F(X,Y,Z) - tripletxi,yi,zi is called a voxel (volume element)
+- Image channels are simply the different color components that make an image.
+- images represented commonly by matrices
+- 
